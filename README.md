@@ -11,3 +11,6 @@ ppl-assignment-rameshwarsankhala created by GitHub Classroom
 
 #Executable file:
 >run Que1.jar file from __dist__ folder
+
+#Class Diagram:
+>Class diagram of Question1 can be found in folder __que1__ as __class diagram.pdf__
