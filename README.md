@@ -8,3 +8,6 @@ ppl-assignment-rameshwarsankhala created by GitHub Classroom
 
 #IDE:
 >Netbeans 8.2
+
+#Executable file:
+>run Que1.jar file from __dist__ folder
